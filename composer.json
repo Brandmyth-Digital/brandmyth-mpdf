@@ -17,7 +17,7 @@
 	],
 	"support": {
 		"issues": "https://github.com/mpdf/mpdf/issues",
-		"source": "https://github.com/mpdf/mpdf",
+		"source": "https://github.com/Brandmyth-Digital/brandmyth-mpdf.git",
 		"docs": "http://mpdf.github.io"
 	},
 	"require": {

@@ -256,6 +256,12 @@ class FontVariables
 					'R' => "Pothana2000.ttf",
 					'useOTL' => 0xFF,
 				],
+
+				"nikosh" => [
+					'R' => "Nikosh.ttf",
+					'useOTL' => 0xFF,
+				],
+
 				/* Arabic fonts */
 				"xbriyaz" => [
 					'R' => "XB Riyaz.ttf",
